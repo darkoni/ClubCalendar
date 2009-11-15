@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>ClubCalendar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+
+a:link,a:visited,a:active,
+a:focus { text-decoration:none; font-weight:bold; color: blue; }
+a:hover { text-decoration:none; font-weight:bold; color: #660000; }
+
+body { font-family:Sans,Verdana; font-size:9pt; }
+
+iframe { display:none; }
+
+</style>
+<script src='calendar.js'></script>
+</head>
+<body onload='init()'>
+
+<a target='_blank' href='popisi.html'><input type='button' value='popisi'></a>
+
+<input type='radio' name='xxx' onclick='tip=0;init();' style='margin-left:20px; ' checked > all
+<input type='radio' name='xxx' onclick='tip=1;init();' style='margin-left:20px; '         > dežurni
+<input type='radio' name='xxx' onclick='tip=2;init();' style='margin-left:20px; '         > events
+
+<br>
+
+<div id='cal' style=' border:none; margin:0px; margin-top:10px; padding:0px; ' ></div>
+
+<br>tested on: <b>Opera 10.10 Beta</b> and <b>Firefox 3.5.5</b>
+
+<iframe id='xdezurni' src='data/dezurni.txt'></iframe><br>
+<iframe id='xevents'  src= 'data/events.txt'></iframe><br>
+
+</body>
+</head>
+

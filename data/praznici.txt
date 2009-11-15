@@ -1,0 +1,28 @@
+2009-01-01 Nova godina
+2009-01-02 Nova godina
+2009-01-06 Sveta tri kralja
+2009-04-10 Veliki petak
+2009-04-13 Uskrsni ponedjeljak
+2009-05-01 Praznik rada
+2009-06-11 Tijelovo
+2009-06-22 Dan antifašitičke borbe
+2009-06-25 Dan državnosti
+2009-08-05 Dan hrvatskih branitelja i domovinske zahvalnosti
+2009-10-08 Dan neovisnosti
+2009-10-09 Dan neovisnosti
+2009-12-25 Božićni blagdani
+
+2010-01-01 Nova godina
+2010-01-06 Sveta tri kralja
+2010-04-02 Veliki petak
+2010-04-05 Uskrsni ponedjeljak
+2010-06-03 Tijelovo
+2010-06-22 Dan antifašitičke borbe
+2010-06-25 Dan državnosti
+2010-08-05 Dan hrvatskih branitelja i domovinske zahvalnosti
+2010-08-06 Dan hrvatskih branitelja i domovinske zahvalnosti
+2010-10-08 Dan neovisnosti
+2010-11-01 Svi sveti
+
+http://zse.hr/default.aspx?id=31
+

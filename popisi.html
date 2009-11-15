@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html lang='hr'>
+<head>
+<title>ClubCalendar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+
+a:link,a:visited,a:active,
+a:focus { text-decoration:none; font-weight:bold; color: blue; }
+a:hover { text-decoration:none; font-weight:bold; color: #660000; }
+
+body { font-family:Sans,Verdana; font-size:9pt; background-color:#ffff99; }
+
+iframe { display:none; }
+
+div { border:solid 1px gray; padding:5px; white-space: pre; background-color:#ffffff; font-family:monospace; }
+
+</style>
+<script>
+
+function dump(obj){ var txt=obj+'\n'; for(i in obj)txt+='\n'+i+'\t~ '+obj[i]; alert(txt); }
+
+function copy(id){
+var odiv  =document.getElementById('d'+id);
+var oframe=document.getElementById('x'+id);
+odiv.innerHTML=oframe.contentWindow.document.body.textContent; // FF 3.5.5 * Opera 10.10 Beta
+}
+
+function init(){
+copy('dezurni'      );
+copy('events'       );
+copy('programi'     );
+copy('razmjenjivaci');
+copy('sig'          );
+copy('projekti'     );
+copy('praznici'     );
+copy('mjeseci'      );
+}
+
+</script>
+</head>
+<body onload='init()' >
+
+      dezurni <br><div id='ddezurni'       ></div><br>
+       events <br><div id='devents'        ></div><br>
+     programi <br><div id='dprogrami'      ></div><br>
+          sig <br><div id='dsig'           ></div><br>
+     projekti <br><div id='dprojekti'      ></div><br>
+razmjenjivaci <br><div id='drazmjenjivaci' ></div><br>
+     praznici <br><div id='dpraznici'      ></div><br>
+      mjeseci <br><div id='dmjeseci'       ></div><br>
+
+<iframe id='xdezurni'       src=      'data/dezurni.txt'></iframe><br>
+<iframe id='xevents'        src=       'data/events.txt'></iframe><br>
+<iframe id='xprogrami'      src=     'data/programi.txt'></iframe><br>
+<iframe id='xsig'           src=          'data/sig.txt'></iframe><br>
+<iframe id='xprojekti'      src=     'data/projekti.txt'></iframe><br>
+<iframe id='xrazmjenjivaci' src='data/razmjenjivaci.txt'></iframe><br>
+<iframe id='xpraznici'      src=     'data/praznici.txt'></iframe><br>
+<iframe id='xmjeseci'       src=      'data/mjeseci.txt'></iframe><br>
+
+</body>
+</head>
+

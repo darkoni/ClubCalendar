@@ -1,0 +1,27 @@
+2009-10-26    Dpavlin - Dobrica Pavlinušić
+2009-10-27     Vrodic - Vedran Rodić
+2009-10-28    Nplejic - Nikola Plejić
+2009-10-29        Aka - Alan Pavičić
+2009-10-30     Vrodic - Vedran Rodić
+2009-11-02       Lesh - Ivan Nikolić
+2009-11-03    Drgspot - Robert Bobanović
+2009-11-04        Ipj - Ivo-Pavao Jazbec
+2009-11-05      Klemo - Klemo Vladimir
+2009-11-06 Burgulgoth - David Jelić
+2009-11-09     Ruzica - Ružica Vranković
+2009-11-10 Burgulgoth - David Jelić
+2009-11-11    Darkoni - Darko Nikolić
+2009-11-12      Noddy - David Kaloper
+2009-11-13      Davor - Davor Emard
+2009-11-16      Dboto - Darko Boto
+2009-11-18    Marcell - Nenad Romić
+2009-11-19     Lblasc - Luka Blašković
+2009-11-20        Bud - Tomislav Marčinković
+2009-11-25       Rush - Davorin Ruševljan
+2009-11-26    Nplejic - Nikola Plejić
+
+2009-11-07 razmjena.vjestina
+2009-11-14 razmjena.vjestina
+2009-11-21 razmjena.vjestina
+2009-11-28 razmjena.vjestina
+

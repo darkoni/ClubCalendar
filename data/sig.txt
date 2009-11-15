@@ -1,0 +1,7 @@
+# Interesne Grupe
+
+  GIS
+  ZagrebPM ~ Zagreb Perl Mongers
+  SIG:Elektronika
+# SIG:Lisp
+
