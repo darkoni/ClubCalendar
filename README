@@ -2,12 +2,12 @@
 ClubCalendar is for maintaining club activities connected to calendar:
 
   onduty - members on duty in club
-  events - 
-holydays - 
- members - 
-programs - 
-projects - 
-    sigs - special interest groups
+  events - club events
+ members - club members
+programs - club programs
+projects - club projects
+    sigs - club special interest groups
+holydays - country holydays
 
 ---
 
@@ -16,41 +16,3 @@ the main purpose of this project is to get familiar with:
 HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, GIT, and other stuff.
 
 ---
-
-http://www.w3schools.com/
-
-http://www.w3schools.com/html/default.asp
-HTML
-
-http://www.w3schools.com/css/default.asp
-CSS
-
-http://www.w3schools.com/htmldom/default.asp
-HTML DOM
-
-http://www.w3schools.com/js/default.asp
-JavaScript
-
-http://www.w3schools.com/php/default.asp
-PHP
-
-http://www.w3schools.com/sql/default.asp
-SQL
-
----
-
-http://php.net/
-PHP
-http://www.php.net/manual/en/
-PHP Manual
-
-http://www.mysql.com/
-MySQL
-http://dev.mysql.com/doc/#refman
-MySQL documentation
-
-http://www.postgresql.org/
-PostgreSQL
-http://www.postgresql.org/docs/
-PostgreSQL documentation
-
